@@ -1,0 +1,11 @@
+# This is the main .gitignore file. Patterns in here will apply in sub directories too.
+
+# Ignore basic Java files
+*.jar
+*.class
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+target
